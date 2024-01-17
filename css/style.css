@@ -63,7 +63,7 @@
 .actions .item {
     /* margin-right: 22px;
      */
-    padding-left: 30px;
+    padding-left: 20px;
 }
 
 .actions .item .btn {
@@ -277,6 +277,11 @@
     /* position: absolute; */
     margin-top: 17px;
     margin-right: 20px;
+}
+
+.list-products .icon p {
+    /* position: absolute; */
+    margin-left: 30px;
 }
 
 .list-products .item img:hover {
